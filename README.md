@@ -1,0 +1,2 @@
+# Real-State-Price-AI
+ This project uses machine learning models to predict real estate prices based on input features such as area, location, number of floors, number of rooms, and other factors that influence the property value. The goal is to develop a model capable of accurately predicting real estate prices based on these characteristics, helping users make more informed decisions when buying, selling, or investing in properties.
