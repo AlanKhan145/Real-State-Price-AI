@@ -1,0 +1,911 @@
+du_an,price_VND,location,status,area,price_m2,toilet,room,doc,type,Số tầng,furnishing
+,7.3,"18 ngõ 81/14, Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",Chưa bàn giao,41.1,177.62,3.0,5,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.38,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,50.0,47.6,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.379,"802, Phố Nguyễn Cảnh Dị, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,63.0,53.63,2.0,4,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,3.648,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,66.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.88,"Đường Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,36.15,,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.33,"Đại Dương, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,46.0,50.65,1.0,1,Sổ hồng riêng,Chung cư,,
+,2.33,"Đường Thụy Khuê, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",Đã bàn giao,60.0,38.83,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Hoàn thiện cơ bản
+Chung cư Đại Thanh,2.52,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,56.0,45.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Chung cư Đại Thanh,1.88,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,55.0,34.18,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Chung cư Đại Thanh,2.05,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,45.0,45.56,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.51,"Đường Nguyễn Gia Bồng, Phường Thượng Thanh, Quận Long Biên, Hà Nội",Đã bàn giao,101.57,64.1,2.0,3,Hợp đồng mua bán,Chung cư,,
+Chung cư Sails Tower (Chung cư Sông Nhuệ),2.45,"Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,50.0,49.0,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,4.7,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,75.0,62.67,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,2.85,"Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,66.28,1.0,1,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,2.5,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,34.0,73.53,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,5.4,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,94.0,57.45,2.0,3,Đang chờ sổ,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,6.7,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,111.0,60.36,3.0,4,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,3.5,"Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,54.0,64.81,1.0,2,Sổ hồng riêng,Chung cư,,
+Khu đô thị mới Xa La,3.15,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,46.32,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,8.2,"19, Đường Nguyễn Trãi, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,120.0,68.33,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,3.66,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,66.55,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Đại Thanh,3.55,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,84.0,42.26,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Ecohome Phúc Lợi,2.45,"Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",Đã bàn giao,46.0,53.26,1.0,2,Sổ hồng riêng,Chung cư,,
+Ruby CT3 (Ruby City Long Biên),2.2,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,48.8,45.08,2.0,2,Hợp đồng mua bán,Chung cư,,
+Khu đô thị 54 Hạ Đình,3.93,"Hạ Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,80.0,49.12,2.0,3,Sổ hồng riêng,Chung cư,,
+,7.3,"18 ngõ 81/14, Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",Chưa bàn giao,41.1,177.62,3.0,5,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Smart City,3.648,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,66.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.55,"Phố Nguyễn Phan Chánh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,48.0,32.29,,2,Hợp đồng mua bán,Chung cư,,
+,2.38,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,50.0,47.6,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.45,"11, Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Đã bàn giao,60.0,57.5,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,8.2,"19, Đường Nguyễn Trãi, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,120.0,68.33,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,3.66,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,66.55,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Đại Thanh,3.55,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,84.0,42.26,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Ecohome Phúc Lợi,2.45,"Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",Đã bàn giao,46.0,53.26,1.0,2,Sổ hồng riêng,Chung cư,,
+Ruby CT3 (Ruby City Long Biên),2.2,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,48.8,45.08,2.0,2,Hợp đồng mua bán,Chung cư,,
+Khu đô thị 54 Hạ Đình,3.93,"Hạ Đình, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,80.0,49.12,2.0,3,Sổ hồng riêng,Chung cư,,
+Khu đô thị mới Hạ Đình,3.93,"214, Nguyễn Xiển, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Đã bàn giao,80.0,49.12,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.45,"Phố Hồng Mai, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,37.69,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Chung cư Đại Thanh,2.7,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,60.0,45.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,3.58,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,65.09,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Đại Thanh,2.28,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,47.0,48.51,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.35,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.0,27.0,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+SDU - 143 Trần Phú,3.3,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,48.53,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.5,"Đường Vân Hồ 3, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,75.0,33.33,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.75,"Ngõ 147B Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,80.0,34.38,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,1.9,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,35.0,54.29,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.4,"Đường Dãy A5 Đầm Trấu, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,52.31,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.68,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,70.0,38.29,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,3.6,"Tân Msi, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,100.0,36.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.35,"Phố 8 Tháng 3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,70.0,33.57,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+SDU - 143 Trần Phú,3.3,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,48.53,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.5,"Đường Vân Hồ 3, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,75.0,33.33,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.75,"Ngõ 147B Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,80.0,34.38,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,1.9,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,35.0,54.29,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.4,"Đường Dãy A5 Đầm Trấu, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,52.31,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.68,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,70.0,38.29,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,3.6,"Tân Msi, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,100.0,36.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.35,"Phố 8 Tháng 3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,70.0,33.57,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,4.4,"Đường Mỹ Đình 2, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,74.0,59.46,2.0,2,Hợp đồng đặt cọc,Chung cư,,Nội thất đầy đủ
+,2.2,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,45.0,48.89,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.6,"Phố Lê Gia Đỉnh, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,55.0,47.27,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.55,"Phố Lê Gia Đỉnh, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,45.0,56.67,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.25,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,85.0,38.24,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,10.5,"Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,130.0,80.77,2.0,3,Hợp đồng mua bán,Duplex,,Nội thất cao cấp
+Vinhomes Smart City,2.87,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,66.74,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+FLC Garden City,3.85,"Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,66.0,58.33,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+CT1 Thạch Bàn,4.6,"Khu đô thị Thạch Bàn, Phường Thạch Bàn, Quận Long Biên, Hà Nội",Đã bàn giao,95.0,48.42,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.35,"Đường Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội",Đã bàn giao,89.0,48.88,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.4,"nam  trung yên, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,65.0,52.31,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Smart City,1.85,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,25.0,74.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.4,"nam  trung yên, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,65.0,52.31,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Smart City,1.85,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,25.0,74.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.5,"Phố Trần Hữu Dực, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,104.0,52.88,2.0,3,Sổ hồng riêng,Chung cư,,
+,4.65,"Tòa nhà N03, Trần Quý Kiên , Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,78.0,59.62,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.1,"cổ loa, Xã Cổ Loa, Huyện Đông Anh, Hà Nội",Chưa bàn giao,32.0,96.88,1.0,1,Hợp đồng mua bán,Chung cư,,
+,0.07,"tầng 10, Chung cư 15/17 Ngọc Khánhh, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",Đã bàn giao,146.0,0.479452,,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.78,"Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,68.73,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.6,"Đường cao tốc Hà Nội – Hải Phòng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,45.0,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.22,"Đường Lý Thánh Tông, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.72,"Đường Lý Thánh Tông, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,30.0,57.33,1.0,1,Hợp đồng mua bán,Chung cư,,
+,1.65,"Đường Lý Thánh Tông, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,53.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.0,"187, Ngách 84 Ngõ 180 Nguyễn Lương Bằng, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,65.0,76.92,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.6,"xã đàn, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",Chưa bàn giao,36.0,16.67,1.0,2,1,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.75,"Đường An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,50.0,15.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.6,", Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,55.0,10.91,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,0.65,"Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.59,"Phố Thái Hà, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,10.73,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.6,"Đường Mễ Trì, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.0,12.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,4.7,"Phố Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,83.0,56.63,2.0,3,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,1.92,"Phố Hào Nam, Phường Cát Linh, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,38.4,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,4.7,"Phố Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,83.0,56.63,2.0,3,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,1.92,"Phố Hào Nam, Phường Cát Linh, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,38.4,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,4.96,"Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,79.0,62.78,2.0,2,Sổ hồng riêng,Chung cư,,
+,1.98,"Đường Hoàng Đạo Thành, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,36.0,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.74,"Đường Chùa Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,130.0,21.08,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,3.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.2,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",Đã bàn giao,48.0,25.0,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.21,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.02,1.0,1,Sổ hồng riêng,Chung cư,,
+,7.9,"Toà 1A Vinaconex 7, 136 Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,139.2,56.75,2.0,4,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.89,"thái hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,52.0,36.35,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.76,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,60.0,46.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.75,"Phố Chùa Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Chưa bàn giao,80.0,34.38,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.5,"Phố Thái Thịnh, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,58.0,43.1,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,59.0,44.92,1.0,2,Sổ hồng riêng,Chung cư,,
+,0.00499,"Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,78.0,0.063974,,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.25,"Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,70.0,46.43,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,5.2,"Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội",Chưa bàn giao,94.0,55.32,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,15.5,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,66.0,234.85,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+The Two Residence - Gamuda Garden,5.4,"Đường Pháp Vân, phường Yên Sở, Hoàng Mai, Hà Nội, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,83.0,65.06,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.6,"8/3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,35.0,74.29,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,11.9,"Đường Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,68.0,175.0,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+Khu đô thị mới Xa La,2.4,"Phố Phùng Hưng, Phường Phúc La, Hà Đông, Hà Nội, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,53.0,45.28,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.98,"Phố Trần Đăng Ninh, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,65.0,61.23,2.0,2,Sổ hồng riêng,Chung cư,,
+,5.95,"Xuân Đỉnh , Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,87.0,68.39,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.97,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,65.0,30.31,1.0,3,Hợp đồng mua bán,Chung cư,,
+,1.42,"Đường An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,35.0,40.57,1.0,1,Hợp đồng mua bán,Chung cư,,
+,2.34,"Phố Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,40.34,2.0,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+,5.6,"Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,75.6,74.07,2.0,2,Sổ hồng riêng,Chung cư,,
+,25.0,"PHAN KẾ BÍNH, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",Chưa bàn giao,80.0,312.5,6.0,10,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.68,"Ngõ 1 Phố Thọ Lão, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,120.0,30.67,2.0,4,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.6,"Hh02-2a , Đường Cenco 5, 6toà Cũ , KĐT Thanh Hà, Xã Cự Khê, Huyện Thanh Oai, Hà Nội",Chưa bàn giao,66.5,39.1,2.0,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+HH2 Linh Đàm,2.72,"Đường Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,66.0,41.21,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Chung cư 130 Nguyễn Đức Cảnh,5.12,"130, 130 Đường Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,92.0,55.65,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.65,"Lý Văn Phúc, Phường Cát Linh, Quận Đống Đa, Hà Nội",Đã bàn giao,110.0,33.18,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.55,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,44.38,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.05,"Đường Trường Chinh, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,30.0,35.0,1.0,1,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.65,"Ngách 1194/61, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,37.86,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,4.05,"Phố Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Chưa bàn giao,80.0,50.62,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.38,"Phố Thọ Lão, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,48.0,49.58,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,8.3,"Phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,114.0,72.81,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,8.3,"Phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,114.0,72.81,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.68,"Nguyễn Công Trứ, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,120.0,30.67,,4,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.35,"Phố Nguyễn Công Trứ, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,80.0,41.88,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+Chung Cư The Sparks,0.355,"Tố Hữu, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",Đã bàn giao,83.0,4.28,2.0,2,Sổ hồng riêng,Chung cư,,
+,6.68,"Phố Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,89.0,75.06,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Khu đô thị mới Dương Nội,0.355,"Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội",Đã bàn giao,84.0,4.23,2.0,2,Sổ hồng riêng,Chung cư,,
+,2.78,"Đường Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,65.0,42.77,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.55,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,50.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.39,"an trach, Phường Văn Miếu, Quận Đống Đa, Hà Nội",Đã bàn giao,32.0,43.44,1.0,1,Hợp đồng mua bán,Chung cư,,
+,5.68,"Đường Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,95.0,59.79,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.6,"Bà Triệu , Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",Chưa bàn giao,38.0,173.68,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,
+,29.0,"Phố Nam Dư, Phường Trần Phú, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,143.0,202.8,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,14.7,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,57.0,257.89,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,10.9,"Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,50.0,218.0,6.0,8,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,3.35,Tây mỗ,Đã bàn giao,50.0,67.0,1.0,2,1,Chung cư,,
+,3.35,"Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.0,67.0,,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.1,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.29,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Đại Thanh,2.53,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,60.0,42.17,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Khu đô thị mới Xa La,2.99,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,74.0,40.41,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,8.95,"Đường Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,45.0,198.89,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Khu đô thị mới Xa La,2.9,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,76.0,38.16,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Khu đô thị mới Xa La,3.0,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,44.12,2.0,2,Sổ hồng riêng,Chung cư,,
+MIPEC Kiến Hưng (Mipec City View),0.003,"Kiến Hưng, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",Đã bàn giao,57.0,0.052631,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,13.8,"Đường Phú Diễn, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,60.0,230.0,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.12,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.57,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.55,"EUROWINDOWS, Xã Đông Hội, Huyện Đông Anh, Hà Nội",Đã bàn giao,96.3,47.25,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Hateco Hoàng Mai,4.1,", Ngã 3 Tam Trinh, Phường Yên Sở, Quận Hoàng Mai, Hà Nội, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",Đã bàn giao,79.0,51.9,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.85,"Đường Lĩnh Nam, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,55.0,51.82,1.0,2,Sổ hồng riêng,Chung cư,,
+,4.85,"Phố Nguyễn Cơ Thạch, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,82.0,59.15,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.6,"Phố Cửa Bắc, Phường Trúc Bạch, Quận Ba Đình, Hà Nội",Đã bàn giao,50.0,52.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,2.56,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,42.67,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,4.7,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,76.0,61.84,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+N04A Ngoại Giao Đoàn,0.0073,"Lô đất N04A, Lô đất N04A Khu Ngoại giao đoàn, Phường Xuân Tảo, Quận Bắc Từ Liêm, Hà Nội",Chưa bàn giao,82.0,0.089024,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.68,"Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,76.0,48.42,,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,2.21,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.02,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.4,"Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội",Đã bàn giao,73.0,60.27,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,11.5,"Phố Trịnh Văn Bô, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,60.0,191.67,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.85,"Thành Trung, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,47.5,,2,Sổ hồng riêng,Chung cư,,
+,14.5,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,59.0,245.76,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Smart City,3.2,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,45.0,71.11,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,4.5,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,62.0,72.58,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,2.31,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,32.0,72.19,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,1.59,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.29,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,2.8,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,65.12,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Tổ hợp chung cư Thủy Lợi Tower,5.0,"Lê Trọng Tấn, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,140.0,35.71,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.21,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.02,1.0,1,Sổ hồng riêng,Chung cư,,
+,1.25,"Phố Đại Linh, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.0,25.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.82,"Thượng Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,65.0,28.0,2.0,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+,3.3,"Phố Nguyễn Công Trứ, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,82.0,40.24,,3,Hợp đồng đặt cọc,"Tập thể, cư xá",,
+,11.5,"Phố Trịnh Văn Bô, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,50.0,230.0,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.35,"Phố Lê Gia Đỉnh, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,60.0,39.17,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,1.75,"Phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,45.0,38.89,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.89,"Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,36.35,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,45.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.53,"Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,50.0,30.6,1.0,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+SDU - 143 Trần Phú,3.05,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,44.85,2.0,2,Sổ hồng riêng,Chung cư,,
+,0.93,"Phố Đại Linh, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,40.0,23.25,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.93,"Phố Đại Linh, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,40.0,23.25,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.21,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.02,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.89,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",Đã bàn giao,52.0,36.35,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+HH1 Linh Đàm,2.3,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,56.0,41.07,,2,Hợp đồng mua bán,Chung cư,,
+,3.05,"Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,60.0,50.83,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Rice City Sông Hồng,3.25,"Lô đất A1-05, Gia Quất, Phường Thượng Thanh, Quận Long Biên, Hà Nội",Đã bàn giao,52.0,62.5,1.0,1,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,1.36,"Phố Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,42.0,32.38,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.99,"Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,80.0,37.38,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,5.666,"Phố Nguyễn Thanh Bình, Phường La Khê, Quận Hà Đông, Hà Nội",Chưa bàn giao,136.0,41.67,2.0,3,Sổ hồng riêng,Chung cư,,
+An Lạc - Nam La Khê,4.09,"368, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,100.0,40.9,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+An Lạc - Phùng Khoang,4.15,"Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,89.0,46.63,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+MIPEC Kiến Hưng (Mipec City View),3.15,"Kiến Hưng, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",Đã bàn giao,57.0,55.26,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+SDU - 143 Trần Phú,3.19,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,67.0,47.61,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Tòa nhà Intracom1 - Trung Văn,5.35,"Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,110.0,48.64,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.95,"Phố Khương Trung, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,90.0,43.89,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.8,"Kim Liên, Phường Kim Liên, Quận Đống Đa, Hà Nội",Chưa bàn giao,60.0,46.67,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+Chung cư Nam Xa La,2.9,"Phúc La, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,70.0,41.43,,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,2.68,"Đường Hoàng Công Chất, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,52.0,51.54,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,15.8,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,68.0,232.35,6.0,10,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,8.9,"Đường Mễ Trì, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,43.0,206.98,,9,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,5.2,"Phố Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,80.0,65.0,,2,Sổ hồng riêng,Chung cư,,
+Chung cư Fodacon,4.7,"Số 10, Nguyễn Trãi, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",Đã bàn giao,112.0,41.96,2.0,3,Sổ hồng riêng,Chung cư,,
+,3.95,"Đường Văn Tân, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,63.0,62.7,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.9,"Đền Lừ , Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,100.0,39.0,2.0,2,Sổ hồng riêng,Chung cư,,
+,17.6,"Phố Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,84.0,209.52,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.78,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,65.0,42.77,,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,4.5,"Phố Yên Sở, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,72.0,62.5,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.3,"Phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,90.0,47.78,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,10.3,"99, Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,122.0,84.43,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,11.8,"Ngõ 254 Minh Khai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,57.0,207.02,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,14.5,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,63.0,230.16,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,3.95,"Trần Đại Nghĩa , Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,85.0,46.47,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,15.0,"Phố Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,65.0,230.77,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.38,"Lò Đúc , Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,50.0,47.6,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.39,"9, Phố Nguyễn Cảnh Dị, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,65.0,52.15,1.0,2,Sổ hồng riêng,Chung cư,,
+,2.45,"Xa La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,55.0,44.55,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.5,"Phố Nguyễn Cơ Thạch, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,106.0,51.89,2.0,3,Sổ hồng riêng,Chung cư,,
+Sun Square,5.0,"21, Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,100.0,50.0,2.0,3,Sổ hồng riêng,Penthouse,,Nội thất đầy đủ
+,3.9,"Phố Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,60.0,65.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,4.3,"Phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,90.0,47.78,,3,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+Chung cư Đại Thanh,2.48,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,63.0,39.37,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.25,"Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,70.0,46.43,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.9,"Phố Lương Khánh Thiện, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,74.0,52.7,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.05,"Phố Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,96.0,31.77,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.55,"Phố Trần Thủ Độ, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,70.0,36.43,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,1.82,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Chưa bàn giao,52.0,35.0,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,
+,1.89,"Phố Khương Trung, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,34.36,1.0,2,Hợp đồng mua bán,Chung cư,,
+,5.0,"Phố Nguyễn Đức Cảnh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,91.0,54.95,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.35,"Phố Lưu Hữu Phước, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,100.0,63.5,,3,Sổ hồng riêng,Chung cư,,
+HH3 Linh Đàm,2.8,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,63.0,44.44,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+HH2 Linh Đàm,2.2,"Hoàng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,48.0,45.83,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+,1.88,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,55.0,34.18,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Hoàn thiện cơ bản
+,1.98,"Giải Phóng , Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,55.0,36.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,3.48,"Phố Thành Công, Phường Thành Công, Quận Ba Đình, Hà Nội",Đã bàn giao,75.0,46.4,,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,11.29,"Ngõ 155 Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,50.0,225.8,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,8.9,"Phố Ngọa Long, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,48.0,185.42,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,3.333,"Ngõ 11 Đường 800A, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,65.0,51.28,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.38,"Phố Tạ Quang Bửu, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,53.0,44.91,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,1.15,"Ngõ Chợ Khâm Thiên, Phường Trung Phụng, Quận Đống Đa, Hà Nội",Chưa bàn giao,26.0,44.23,1.0,1,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,
+,6.4,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,98.2,65.17,2.0,3,Sổ hồng riêng,Chung cư,,
+,0.63,"Phố Phúc Tân, Phường Phúc Tân, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,18.0,35.0,1.0,1,Sổ hồng riêng,Chung cư,,
+,3.02,"Phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,65.0,46.46,1.0,2,Sổ hồng riêng,Chung cư,,
+,0.899,"Phố Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,16.35,2.0,2,1,Chung cư,,Nội thất đầy đủ
+,0.899,"Phố Nguyễn An Ninh, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,56.0,16.05,2.0,2,1,Chung cư,,Nội thất đầy đủ
+,1.83,"TÒA SAPPHIRE ( S), Vinhome ocean pack1, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,30.5,60.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung Cư Hope Residence (Nhà Ở Xã Hội Phúc Đồng),6.2,"B8.NXH Vinhomes Riverside 2, Phúc Đồng, Long Biên, Hà Nội, Phường Phúc Đồng, Quận Long Biên, Hà Nội",Đã bàn giao,85.0,72.94,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,17.5,"17, Đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,60.0,291.67,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.98,"475, Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",Đã bàn giao,85.0,35.06,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.95,"Phố Giảng Võ, Phường Giảng Võ, Quận Ba Đình, Hà Nội",Đã bàn giao,52.0,75.96,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.75,"Đường Giải Phóng, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,120.0,31.25,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,5.05,"Phố Nguyễn Đức Cảnh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Đã bàn giao,91.0,55.49,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.8,"Trường sa, Xã Đông Hội, Huyện Đông Anh, Hà Nội",Chưa bàn giao,48.0,79.17,,1,Sổ hồng riêng,Chung cư,,
+The Golden An Khánh,3.4,"Lô HH6, An Khánh, Xã An Khánh, Huyện Hoài Đức, Hà Nội",Đã bàn giao,70.0,48.57,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Ruby CT3 (Ruby City Long Biên),3.59,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Chưa bàn giao,75.3,47.68,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.25,"Tôn Đức Thắng, Phường Cát Linh, Quận Đống Đa, Hà Nội",Đã bàn giao,56.0,75.89,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Chung cư CT11 Kim Văn Kim Lũ (Tòa E),2.0,"Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,45.0,44.44,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+HEI TOWER,6.75,"Số 1, Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,89.0,75.84,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.98,"Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,65.0,45.85,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.22,"Phố Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,35.0,63.43,1.0,1,Sổ hồng riêng,Chung cư,,
+,5.5,"Chung cư ct8a, kđt dương nội, yên nghĩa, Phố Nguyễn Văn Trác, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",Chưa bàn giao,117.5,46.81,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.69,"Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,55.0,48.91,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,4.3,"Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,112.0,38.39,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.58,"Phố Phương Liệt, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,55.0,46.91,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+HH4 Linh Đàm,2.4,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,66.0,36.36,,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+Chung cư Bộ Tổng Tham Mưu (789 Mỹ Đình),4.1,"Nhân Mỹ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,70.0,58.57,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.7,"Đường Điện Biên Phủ, Phường Điện Biên, Quận Ba Đình, Hà Nội",Chưa bàn giao,28.0,96.43,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+FLC Garden City,3.3,"Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.2,65.74,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.665,"Đường Linh Đàm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,80.0,58.31,,3,Sổ hồng riêng,Chung cư,,
+Bình Vượng Tower,4.45,"200, 200 200 Quang Trung, Phường Quang Trung, Hà Đông, Hà Nội, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,112.0,39.73,,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+HH1 Linh Đàm,2.4,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,56.0,42.86,,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+,6.2,"6, Phố Dương Đình Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,92.0,67.39,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.87,"Phố 8 Tháng 3, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,35.0,24.86,1.0,1,Đang chờ sổ,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.55,"431 Tam Trinh , Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,65.0,54.62,2.0,2,Sổ hồng riêng,Chung cư,,
+,12.9,"Phố Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",Chưa bàn giao,49.0,263.27,6.0,10,Sổ hồng riêng,Chung cư,,
+,11.0,"Đường Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,48.0,229.17,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,5.7,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,93.0,61.29,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.37,"2, Đường Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,45.0,52.67,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.0,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,42.86,2.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,1.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.5,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.6,"1, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,
+,7.0,"Phố Thi Sách, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,110.0,63.64,2.0,2,Sổ hồng riêng,Chung cư,,
+,4.5,"Phố Thi Sách, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,75.0,60.0,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.33,"Phố Nguyễn Công Trứ, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,80.0,41.62,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,4.38,"Phố Hồ Đắc Di, Phường Trung Tự, Quận Đống Đa, Hà Nội",Đã bàn giao,102.0,42.94,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.35,"Phố Nguyễn Công Trứ, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,80.0,41.88,,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.45,"Phố Thanh Nhàn, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,70.0,35.0,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,7.8,"Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,127.0,61.42,2.0,3,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+,2.95,"Phố Lương Định Của, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,65.0,45.38,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+New Skyline,6.8,"CC2, CC2 Lô đất CC2 KĐT Văn Quán, Phường Văn Quán, Hà Đông, Hà Nội, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,100.0,68.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Fodacon,5.555,"Số 10, Số 10 Đường Nguyễn Trãi, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",Đã bàn giao,112.0,49.6,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.52,"Xa La, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,55.0,45.82,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.2,"Đường Đa Tốn, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,64.0,50.0,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Chung cư Dolphin Plaza,13.0,"28, Trần Bình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,186.0,69.89,3.0,4,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.85,"Phố Hoàng Minh Giám, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,86.0,56.4,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,8.8,"Đường Cầu Giấy, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,48.0,183.33,,9,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,1.98,"Phố Võng Thị, Phường Bưởi, Quận Tây Hồ, Hà Nội",Đã bàn giao,55.0,36.0,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.92,"Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,36.92,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.2,"Phố Hồ Đắc Di, Phường Nam Đồng, Quận Đống Đa, Hà Nội",Đã bàn giao,48.0,66.67,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,3.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,
+,3.3,"Phố Nguyễn Công Trứ, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,80.0,41.25,,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.5,"Phố Mai Động, Phường Mai Động, Quận Hoàng Mai, Hà Nội",Đã bàn giao,60.0,58.33,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,1.55,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,50.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Thanh Hà Cienco 5 Mường Thanh(KĐT mới Thanh Hà),2.28,"Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,65.0,35.08,,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+,2.9,"Phố Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,44.62,1.0,2,Hợp đồng đặt cọc,"Tập thể, cư xá",,Nội thất cao cấp
+,0.85,"Đường Trường Chinh, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,15.45,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.899,"Cầu vượt Chùa Bộc -  Phạm Ngọc Thạch, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,16.35,2.0,2,1,Chung cư,,Nội thất đầy đủ
+,2.64,"Phố Lê Gia Đỉnh, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,60.0,44.0,1.0,2,Hợp đồng đặt cọc,"Tập thể, cư xá",,Nội thất cao cấp
+,3.28,"Đường Trương Định, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",Đã bàn giao,99.0,33.13,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,10.65,"Ngõ 155 Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,48.0,221.88,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,9.5,"Phố Văn Trì, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,48.0,197.92,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,8.9,"Phố Ngọa Long, Phường Minh Khai, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,48.0,185.42,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,8.9,"Đường Xuân Phương, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,48.0,185.42,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,2.3,"đường Đặng Xá 10, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,58.0,39.66,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.56,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,42.67,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.5,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,50.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,1.65,", Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,28.0,58.93,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.85,"Phố Nguyễn Thị Định, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,77.0,62.99,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,3.4,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,61.82,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.56,"S2170617, Đường Ngọc Trai 2, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,55.0,64.73,,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Ruby CT3 (Ruby City Long Biên),3.2,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,70.0,45.71,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.7,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,45.0,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+HH1 Linh Đàm,2.75,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,66.0,41.67,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+HH1 Linh Đàm,2.35,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,56.0,41.96,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,3.9,"Đường Quang Trung, Phường La Khê, Quận Hà Đông, Hà Nội",Đã bàn giao,100.0,39.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.88,"Đường Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,36.15,,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.65,"Đường Lý Thánh Tông, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.18,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.38,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.0,"Phố Kim Mã, Phường Giảng Võ, Quận Ba Đình, Hà Nội",Đã bàn giao,35.0,85.71,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+Chung cư số 7 Trần Phú,4.35,"Số 7, Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,88.0,49.43,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,53.23,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Smart City,4.45,"Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,65.0,68.46,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.3,"Lý thánh tông, Xã Dương Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,67.0,64.18,2.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,45.71,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Thang Long Number One,12.11,"Đường  Thăng Long Number One, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,173.0,70.0,,4,Sổ hồng riêng,Chung cư,,
+Chung cư số 7 Trần Phú,4.4,"Số 7, Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,88.0,50.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.4,"nguyễn huy tưởng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,101.0,43.56,,3,Sổ hồng riêng,Chung cư,,
+,0.072,"176 , Phố Định Công, Phường Định Công, Quận Hoàng Mai, Hà Nội",Đã bàn giao,67.0,1.07,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,7.55,"Phố Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,127.0,59.45,2.0,3,Sổ hồng riêng,Chung cư,,
+Bình Vượng Tower,3.9,"200, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,92.0,42.39,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.7,"Chung cư CT36A Dream Home, Phố Trịnh Đình Cửu, Phường Định Công, Quận Hoàng Mai, Hà Nội",Đã bàn giao,69.0,53.62,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.5,"Phố Nguyễn Khắc Nhu, Phường Nguyễn Trung Trực, Quận Ba Đình, Hà Nội",Đã bàn giao,50.0,90.0,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+New Skyline,6.78,"CC2, Văn Quán, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,98.0,69.18,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.4,"2, Đường Trần Huy Liệu, Phường Cát Linh, Quận Đống Đa, Hà Nội",Chưa bàn giao,70.0,62.86,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+VOV Mễ Trì,6.68,"Đường Lương Thế Vinh, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,113.0,59.12,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.5,"Phố Bằng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,60.34,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Golden Palace,8.4,"Đường Mễ Trì, Xã Mễ Trì, Nam Từ Liêm, Hà Nội, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,123.5,68.02,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.33,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,47.57,2.0,4,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.55,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,65.0,39.23,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Chung cư Bộ Tư lệnh Đặc Công,2.3,"Quốc lộ 1A, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",Đã bàn giao,54.0,42.59,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.5,"Phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,70.0,64.29,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.75,"Phố Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,90.0,75.0,,3,Sổ hồng riêng,Chung cư,,
+,0.63,"Phố Phúc Tân, Phường Phúc Tân, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,24.0,26.25,,2,Đang chờ sổ,"Căn hộ dịch vụ, mini",,Hoàn thiện cơ bản
+,4.5,"Phố Bùi Thiện Ngộ, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,80.0,56.25,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.7,"i3-2111, Đường Đại lộ Thăng Long, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,73.44,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.75,"Phố Ngụy Như Kon Tum, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,90.0,75.0,,3,Sổ hồng riêng,Chung cư,,
+,0.63,"Phố Phúc Tân, Phường Phúc Tân, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,24.0,26.25,,2,Đang chờ sổ,"Căn hộ dịch vụ, mini",,Hoàn thiện cơ bản
+,4.5,"Phố Bùi Thiện Ngộ, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,80.0,56.25,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.7,"i3-2111, Đường Đại lộ Thăng Long, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,73.44,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,3.05,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,70.93,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,3.85,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,62.0,62.1,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,2.85,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,66.28,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.82,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,56.0,50.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.45,"23, Nhật Tảo, Phường Xuân Tảo, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,35.0,41.43,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.95,"Ngõ 2 Đình Thôn, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,50.0,39.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Smart City,3.499,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,59.0,59.31,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,11.25,"Phố Hào Nam, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",Đã bàn giao,58.0,193.97,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,3.499,"Đường Đại lộ Thăng Long, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,63.62,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,4.45,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,62.0,71.77,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.9,"Đường Tam Trinh, Phường Mai Động, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,72.0,68.06,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.84,"Chung cư CT4A, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,63.0,29.21,2.0,2,Hợp đồng mua bán,Chung cư,,
+Star Tower 283 Khương Trung,0.01,"Số 283, Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,70.0,0.142857,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.35,"Phố Đào Tấn, Phường Cống Vị, Quận Ba Đình, Hà Nội",Đã bàn giao,25.0,134.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Goldmark City_Khu Ruby,6.9,"136, Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,95.0,72.63,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.93,"Chung cư Đại Thanh, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,55.0,35.09,1.0,2,Hợp đồng mua bán,Chung cư,,
+,6.75,"Ngụy Như Kon Tum, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,88.0,76.7,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.4,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,55.0,43.64,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.75,"Đường Giải Phóng, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,120.0,31.25,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,8.6,"Phố Trần Cung, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Chưa bàn giao,45.0,191.11,6.0,9,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,6.5,"Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,82.2,79.08,2.0,2,Sổ hồng riêng,Chung cư,,
+,2.52,"Đường Đa Tốn, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,48.0,52.5,1.0,1,Sổ hồng riêng,Chung cư,,
+,7.0,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,63.0,111.11,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,7.75,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,126.0,61.51,,3,Sổ hồng riêng,Chung cư,,
+Chung cư Bộ Tổng Tham Mưu (789 Mỹ Đình),5.1,"Nhân Mỹ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,100.0,51.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Times City - Park Hill Premium,8.2,"458, 458 Đường Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,74.0,110.81,2.0,2,Sổ hồng riêng,Chung cư,,
+,5.93,"130 Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,131.0,45.27,,3,Sổ hồng riêng,Chung cư,,
+,2.98,"Đường Đặng Xá 2, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,67.0,44.48,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Goldmark City_Khu Ruby,7.5,"Đường Hồ Tùng Mậu, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",Chưa bàn giao,120.0,62.5,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.4,"Đặng Văn Ngữ, Phường Trung Tự, Quận Đống Đa, Hà Nội",Chưa bàn giao,100.0,44.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Kosmo Tây Hồ,22.5,"Đường Xuân La, Phường Xuân Tảo, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,181.0,124.31,3.0,4,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.25,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.87,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,3.1,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.29,2.0,2,Sổ hồng riêng,Chung cư,,Bàn giao thô
+,0.82,"8/3, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,27.0,30.37,1.0,1,Hợp đồng mua bán,"Tập thể, cư xá",,
+Vinhomes Green Bay,5.6,"Số 7, Số 7 Số 7 Đại lộ Thăng Long, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,57.0,98.25,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.13,"Đường Đại lộ Thăng Long, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,64.0,64.53,,2,Hợp đồng mua bán,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.5,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Tòa nhà Intracom1 - Trung Văn,5.3,"Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,117.0,45.3,2.0,3,Sổ hồng riêng,Chung cư,,
+,3.29,"Đường Hoàng Mai, Phường Mai Động, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,75.0,43.87,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.99,"Đường Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,70.0,57.0,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.4,"Cầu vượt Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,54.0,62.96,,2,Hợp đồng mua bán,Chung cư,,
+,4.98,"Đường Phạm Văn Đồng, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,70.0,71.14,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,3.1,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,47.0,65.96,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Khu đô thị Nam Trung Yên,3.8,"Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,57.0,66.67,1.0,2,Sổ hồng riêng,Chung cư,,
+,0.65,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,42.0,15.48,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,42.0,15.48,1.0,2,Hợp đồng đặt cọc,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.55,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,10.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.2,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,2.0,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,28.0,71.43,1.0,1,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+,2.3,"Đường trục phía Nam, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,70.0,32.86,2.0,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,3.0,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,42.86,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.444,"Phố Thành Công, Phường Thành Công, Quận Ba Đình, Hà Nội",Đã bàn giao,60.0,74.07,1.0,3,Sổ hồng riêng,Chung cư,,
+,5.5,"195 Đội Cấn, Phường Đội Cấn, Quận Ba Đình, Hà Nội",Đã bàn giao,75.0,73.33,,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,6.1,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,95.0,64.21,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.68,"Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,124.0,53.87,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.0,"Đường Khuất Duy Tiến, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,105.0,57.14,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.98,"Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",Đã bàn giao,70.0,42.57,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Bàn giao thô
+,8.4,"Trần Phú, Phường Mộ Lao, Quận Hà Đông, Hà Nội",Chưa bàn giao,150.0,56.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,63.0,"Đường Nguyễn Khang, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,190.0,331.58,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,5.8,"Phố Vĩnh Tuy, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,89.0,65.17,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.45,"Lưu Hữu Phước , Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,100.0,64.5,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.96,"Đường Trường Chinh, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,42.0,70.48,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.65,"Phố Bằng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,50.0,53.0,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.999,"15, Đường Hải Đăng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,62.0,64.52,2.0,2,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+,1.36,trần thái tông,Đã bàn giao,40.0,34.0,,1,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Hoàn thiện cơ bản
+Khu đô thị mới Tân Tây Đô,2.0,"Quốc lộ 32, Xã Tân Lập, Huyện Đan Phượng, Hà Nội",Đã bàn giao,55.0,36.36,2.0,2,Hợp đồng mua bán,Chung cư,,
+,4.12,"Phố Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,74.91,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.45,"Lĩnh Nam , Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,72.0,47.92,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.7,"Vĩnh Hoàng, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,61.0,60.66,1.0,2,Sổ hồng riêng,Chung cư,,
+,3.2,"Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,55.17,,2,Sổ hồng riêng,Chung cư,,
+,3.65,"Đường Lĩnh Nam, Phường Vĩnh Hưng, Quận Hoàng Mai, Hà Nội",Đã bàn giao,65.0,56.15,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.5,"Phố Chu Huy Mân, Phường Việt Hưng, Quận Long Biên, Hà Nội",Đã bàn giao,80.0,43.75,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.45,"Phố Mạc Thái Tổ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,44.0,78.41,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+FLC Star Tower,3.95,"Số 418, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,75.0,52.67,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.1,"25, Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",Chưa bàn giao,90.0,34.44,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,3.03,"Đường Dương Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội",Đã bàn giao,55.0,55.09,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.15,"Đường Phùng Hưng, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",Chưa bàn giao,68.0,46.32,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.25,"Đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",Đã bàn giao,86.0,37.79,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Khu Đô Thị Vinhomes Times City,13.6,"458, 458 Số 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,124.0,109.68,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.3,"Đường An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,99.0,63.64,2.0,3,Đang chờ sổ,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.1,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.29,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+HH4 Linh Đàm,2.36,"Đường Linh Đường, Phường Hoàng Liệt, Hoàng Mai, Hà Nội, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,40.69,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,6.68,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,124.0,53.87,2.0,3,Sổ hồng riêng,Chung cư,,
+Chung cư Tứ Hiệp Plaza,2.3,"Tứ Hiệp, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội",Đã bàn giao,53.1,43.31,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.7,"Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,46.0,15.22,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Phố Hạ Yên Quyết, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,7.9,"Phố Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,108.0,73.15,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,0.65,"Đường Lê Duẩn, Phường Phương Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Ngõ 6 Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,42.0,15.48,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,3.5,"Đường Nguyễn Cao Luyện, Phường Việt Hưng, Quận Long Biên, Hà Nội",Chưa bàn giao,83.0,42.17,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.945,"Phố Kim Ngưu, Phường Quỳnh Mai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,45.31,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,8.8,"Đường Võ Chí Công, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,120.0,73.33,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.95,"Phố Lương Định Của, Phường Kim Liên, Quận Đống Đa, Hà Nội",Chưa bàn giao,60.0,49.17,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Smart City,1.9,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,31.0,61.29,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Chung cư Cienco1,9.4,"Hoàng Đạo Thúy, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,156.0,60.26,3.0,5,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.95,"Phố Khương Thượng, Phường Khương Thượng, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,59.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,3.25,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,66.0,49.24,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Khu đô thị Mỹ Đình II,5.25,", Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,106.0,49.53,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.75,"Phố Phạm Ngọc Thạch, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,50.0,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.95,"Đường Nguyễn Chí Thanh, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Chưa bàn giao,65.0,45.38,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.7,"Phố Lương Định Của, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,49.09,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.65,"Phố Lương Định Của, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,80.0,45.62,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,0.004,"197, 197 trần phú , Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,90.0,0.044444,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư N09B1 Dịch Vọng,8.38,"Thành Thái, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,119.0,70.42,,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.65,"phố hàng Vôi , Phường Tràng Tiền, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,75.0,88.67,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+"Khu nhà ở cán bộ, nhân viên Ban Cơ Yếu Chính Phủ",3.15,"ngõ 164, Khuất Duy Tiến, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,65.0,48.46,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.3,"Phố Nguyên Hồng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Chưa bàn giao,70.0,47.14,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Chung cư Eco Lake View,4.5,"số 32, Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,75.0,60.0,,2,Sổ hồng riêng,Chung cư,,
+,2.3,"Ngọc Hồi, Xã Vĩnh Quỳnh, Huyện Thanh Trì, Hà Nội",Đã bàn giao,53.1,43.31,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.26,"Phố Hồ Văn Chương, Phường Văn Chương, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,45.2,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.2,"Đường Bằng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,74.0,56.76,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Tecco Skyvile Tower (Tecco Tower Thanh Trì),2.3,"Ngũ Hiệp, Xã Ngũ Hiệp, Huyện Thanh Trì, Hà Nội",Đã bàn giao,54.0,42.59,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.558,"Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội",Chưa bàn giao,106.0,43.0,2.0,2,Sổ hồng riêng,Chung cư,,
+,1.89,"KHƯƠNG HẠ, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,56.0,33.75,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,4.65,"Phố Hoàng Minh Giám, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,78.0,59.62,2.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,3.35,", Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,60.91,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.95,"Đường Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Chưa bàn giao,72.0,54.86,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.5,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Chưa bàn giao,72.0,62.5,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.3,"Đường Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,45.0,51.11,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.55,"Chu Văn An, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",Đã bàn giao,70.0,65.0,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,2.78,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,36.0,77.22,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+FLC Star Tower,4.4,"Số 418, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,106.0,41.51,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.4,"KHƯƠNG HẠ, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,32.0,43.75,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,9.4,"2, Đường Hoàng Đạo Thúy, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,156.0,60.26,2.0,4,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,9.6,"Nguyễn chánh, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,146.0,65.75,3.0,4,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Le Grand Jardin Sài Đồng,5.0,"Huỳnh Văn Nghệ, Phường Sài Đồng, Quận Long Biên, Hà Nội",Đã bàn giao,83.0,60.24,,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,3.7,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,57.81,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.38,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,120.0,36.5,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.35,"Đường Hồ Vĩnh Hoàng, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,57.76,2.0,2,Sổ hồng riêng,Chung cư,,
+,0.9,"Phố Thái Thịnh, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,52.0,17.31,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.98,"Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,120.0,33.17,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.23,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.45,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,1.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,32.0,51.56,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,0.78,"Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,61.0,12.79,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.05,"Tố Hữu, Phường Dương Nội, Quận Hà Đông, Hà Nội",Chưa bàn giao,54.0,56.48,1.0,2,Sổ hồng riêng,Chung cư,,
+,6.9,"Phố Đào Tấn, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",Đã bàn giao,80.0,86.25,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.05,"Hoàng Cầu, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,57.86,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.85,"Phố Giáp Nhất, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,33.64,2.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,1.5,"Đường Khương Đình, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,48.0,31.25,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,4.03,"Phố Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,80.0,50.38,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,3.05,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,45.9,66.45,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+SME Hoàng Gia,5.45,"Đường Tô Hiệu, Phường Nguyễn Trãi, Hà Đông, Hà Nội, Phường Nguyễn Trãi, Quận Hà Đông, Hà Nội",Chưa bàn giao,133.0,40.98,,3,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Chung cư 187 Tây Sơn,5.8,"187, 187 187 Tây Sơn, Phường Quang Trung, Đống Đa, Hà Nội, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,65.0,89.23,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,63.0,"9, Đường Nguyễn Khang, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,190.0,331.58,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,6.68,"Phố Dương Khuê, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,125.0,53.44,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.0,"Phố Việt Hưng, Phường Việt Hưng, Quận Long Biên, Hà Nội",Đã bàn giao,70.0,42.86,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.98,"Phố Trần Đăng Ninh, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Chưa bàn giao,62.0,64.19,2.0,2,Sổ hồng riêng,Chung cư,,
+,1.568,"Phố Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,45.0,34.84,,1,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+,1.97,"KHƯƠNG HẠ, Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,65.0,30.31,1.0,3,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,0.9,"Đường Phạm Văn Đồng, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,0.9,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.28,Đường Tây Mỗ,Đã bàn giao,34.0,67.06,,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.35,"Cầu vượt Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,30.0,78.33,,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.52,"Vin1, Khu Đô Thị, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,48.0,52.5,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.8,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,100.0,68.0,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.98,"Phố Hoàng Công, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,63.0,47.3,2.0,2,Sổ hồng riêng,Chung cư,,
+,6.7,"Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,101.0,66.34,2.0,3,Đang chờ sổ,Chung cư,,
+,4.95,"Đường Lê Văn Lương, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,80.0,61.88,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+,2.23,"Đường Nguyễn Xiển, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",Đã bàn giao,45.0,49.56,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.03,"Phố Thái Hà, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,57.57,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.55,"Phố Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,70.0,65.0,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+Khu Đô Thị Vinhomes Times City,9.7,"458, 458 Số 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,108.0,89.81,2.0,3,Sổ hồng riêng,Chung cư,,
+,0.75,"Đường Vũ Trọng Phụng, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,53.0,14.15,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.89,"Kim Đồng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",Đã bàn giao,55.0,16.18,2.0,2,1,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Đại Cồ Việt, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.5,"Phố Nhật Tảo, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,32.0,46.88,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.9,"Đường Tân Xuân, Phường Đông Ngạc, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,52.0,36.54,1.0,2,Hợp đồng mua bán,"Tập thể, cư xá",,Nội thất đầy đủ
+,4.0,"Ngõ 5 Láng Hạ, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,57.14,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.85,"Đường Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,51.82,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.3,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,46.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.18,"Phố Nguyễn Hiền, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,75.0,55.73,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,4.15,"Đường An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,76.0,54.61,2.0,2,Sổ hồng riêng,Chung cư,,
+Chung cư Hemisco Xa La,3.55,"Xa La, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,80.0,44.38,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.15,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,45.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.55,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,45.0,56.67,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+HH4 Linh Đàm,2.43,"Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,56.0,43.39,,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.75,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,46.88,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,53.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Khu đô thị mới Xa La,2.18,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,53.0,41.13,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,59.0,44.92,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.23,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.45,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.59,"Ngõ Thổ Quan, Phường Thổ Quan, Quận Đống Đa, Hà Nội",Chưa bàn giao,55.0,47.09,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+"Chung cư Khu 7,2 hecta Vĩnh Phúc Ba Đình Hà Nội",4.59,"Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,70.0,65.57,2.0,2,Sổ hồng riêng,Chung cư,,
+,2.78,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,55.0,50.55,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Sakura Tower,7.0,"47, Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,98.0,71.43,,3,Sổ hồng riêng,Chung cư,,
+A10-A14 Nam Trung Yên,5.55,"Lô A10-A14, Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,62.0,89.52,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.5,"Phố Vĩnh Hồ, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,55.0,45.45,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,
+Chung cư 187 Tây Sơn,5.15,"187, Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,65.7,78.39,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Khu tập thể Vĩnh Hồ,2.5,"Thịnh Quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,60.0,41.67,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+HH2 - Bắc Hà,6.18,"Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,105.0,58.86,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.1,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.29,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Chung cư Vườn Xuân - 71 Nguyễn Chí Thanh,5.68,"71, Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,76.1,74.64,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.38,"Phố Hồ Đắc Di, Phường Nam Đồng, Quận Đống Đa, Hà Nội",Đã bàn giao,128.0,34.22,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.75,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,45.83,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.45,"Phố Hồng Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,45.0,54.44,,1,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.6,"Trần Thủ Độ, Phường Thịnh Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,78.0,46.15,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,16.67,"Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",Đã bàn giao,183.0,91.09,2.0,3,Hợp đồng mua bán,Chung cư,,
+HH1 Linh Đàm,2.49,"Đường Linh Đường, Phường Hoàng Liệt, Hoàng Mai, Hà Nội, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,57.0,43.68,,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,6.68,"FLC Landmark, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,124.0,53.87,2.0,3,Sổ hồng riêng,Chung cư,,
+Khu đô thị mới Phùng Khoang,3.9,"Tố Hữu, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Đã bàn giao,94.0,41.49,2.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,1,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,1.6,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.2,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,1,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.05,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội",Đã bàn giao,70.0,43.57,2.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,
+An Lạc - Phùng Khoang,3.9,"Phùng Khoang, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,98.0,39.8,2.0,2,Sổ hồng riêng,Chung cư,,
+,2.45,"Phố Vũ Thạnh, Phường Cát Linh, Quận Đống Đa, Hà Nội",Chưa bàn giao,45.0,54.44,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.98,"Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,38.08,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.9,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,41.43,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.1,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,44.68,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,3.4,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,42.5,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.5,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,41.67,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,1.55,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,50.0,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.7,"Phố Nghĩa Tân, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",Đã bàn giao,70.0,67.14,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Khu đô thị Mỹ Đình I,0.069,"Đường Hàm Nghi, Phường Mỹ Đình 1, Nam Từ Liêm, Hà Nội, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,128.0,0.539062,3.0,4,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.2,"Phố Thành Trung, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,75.1,42.61,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.55,"Phố Bạch Mai, Phường Cầu Dền, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,68.0,52.21,2.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,2.76,"Phố Thanh Nhàn, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,60.0,46.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.0,"Phố Thanh Nhàn, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,65.0,46.15,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.45,"Phố Lê Gia Đỉnh, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,60.0,40.83,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,4.18,"Ngõ 318 Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Thành phố Hà Nội, 11020, Việt Nam, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,75.0,55.73,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.55,"phố Trương hán Siêu , Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,70.0,65.0,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.5,"Phố Thái Thịnh, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Chưa bàn giao,45.0,33.33,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Ocean Park Gia Lâm,2.7,"Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội",Đã bàn giao,60.0,45.0,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.3,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,48.94,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Khu đô thị Mỹ Đình I,5.5,"Hàm Nghi, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,110.0,50.0,3.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,2.88,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,66.98,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.22,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.23,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+An Lạc - Nam La Khê,3.98,"368, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,105.0,37.9,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,
+,1.6,"Phố Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,42.0,38.1,1.0,1,Hợp đồng mua bán,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.75,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,45.83,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,3.0,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,44.12,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Ruby CT3 (Ruby City Long Biên),2.35,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,48.0,48.96,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.3,"Phố Chu Văn An, Phường Yết Kiêu, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,63.24,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.65,"Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,76.0,74.34,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.47,"Đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,33.0,44.55,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.98,"Đường Võ Chí Công, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,52.0,38.08,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.45,"Phố Hoàng Công, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,45.0,54.44,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.88,"Phố Linh Đường, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,54.0,34.81,1.0,2,Hợp đồng mua bán,Chung cư,,
+,1.97,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,65.0,30.31,1.0,3,Hợp đồng mua bán,Chung cư,,
+,4.7,"1, Xã Cổ Loa, Huyện Đông Anh, Hà Nội",Đã bàn giao,46.0,102.17,,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Dream Center Home - 282 Nguyễn Huy Tưởng,3.65,"282, Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,72.0,50.69,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.89,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,56.0,33.75,1.0,2,Hợp đồng mua bán,Chung cư,,
+,2.2,"Phố Hoàng Đạo Thành, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",Đã bàn giao,60.0,36.67,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.6,An Dương Vương,Chưa bàn giao,100.0,56.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.05,Đường Võ Chí Công,Chưa bàn giao,76.0,53.29,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.89,"Đường Đại lộ Thăng Long, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,67.21,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Rice City Sông Hồng,3.3,"Lô đất A1-05, Gia Quất, Phường Thượng Thanh, Quận Long Biên, Hà Nội",Đã bàn giao,68.0,48.53,2.0,2,Sổ hồng riêng,Chung cư,,
+Ruby CT3 (Ruby City Long Biên),3.15,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,70.0,45.0,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.82,"Phố An Trạch, Phường Cát Linh, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,36.4,2.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,1.89,"Thái Hà, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,52.0,36.35,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Thành phố Giao Lưu,4.38,"Phạm Văn Đồng, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,80.0,54.75,,3,Sổ hồng riêng,Chung cư,,
+,2.3,"CT12C, Đường Nghiêm Xuân Yêm, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,45.0,51.11,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.28,"Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,120.0,35.67,3.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.98,"Đường Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Chưa bàn giao,75.0,53.07,,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Cổ Loa,4.6,"Đường Cổ Loa, Xã Đông Hội, Phường Đông Anh, Hà Nội",Chưa bàn giao,45.8,100.44,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.88,"Phố Vĩnh Hồ, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",Đã bàn giao,40.0,72.0,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Usilk City,4.28,"Lê Văn Lương, Phường La Khê, Quận Hà Đông, Hà Nội",Đã bàn giao,80.0,53.5,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.66,"Phố Vĩnh Hồ, Phường Ngã Tư Sở, Quận Đống Đa, Hà Nội",Chưa bàn giao,50.0,53.2,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,3.7,"Phố Hương Viên, Phường Đồng Nhân, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,83.0,44.58,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Ecohome Phúc Lợi,2.5,"Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",Đã bàn giao,46.0,54.35,1.0,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+,0.995,"Phố Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,40.0,24.88,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.2,"Đường Mỹ Đình 2, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,99.0,52.53,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.962,"Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,56.0,17.18,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.0999989999999999,"275 Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,132.0,0.757575,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.3,"Phố Hồng Phúc, Phường Nguyễn Trung Trực, Quận Ba Đình, Hà Nội",Chưa bàn giao,25.0,132.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,45.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Osaka Complex,3.25,"Ngõ 48, Hoàng Liệt, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,58.0,56.03,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.0,"Ngõ 221 Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",Chưa bàn giao,52.0,19.23,1.0,2,Đang chờ sổ,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,1.25,"Phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,52.0,24.04,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,0.89,"Phố Trích Sài, Phường Thụy Khuê, Quận Tây Hồ, Hà Nội",Đã bàn giao,55.0,16.18,2.0,2,,Chung cư,,Nội thất cao cấp
+Chung cư Dolphin Plaza,7.5,"28, Trần Bình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,133.0,56.39,,3,Sổ hồng riêng,Chung cư,,
+,1.65,"Đường cao tốc Hà Nội – Hải Phòng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,53.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.65,"Đường cao tốc Hà Nội – Hải Phòng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,Sổ hồng riêng,Chung cư,,
+,2.22,"Đường cao tốc Hà Nội – Hải Phòng, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,19.2,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,143.0,134.27,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,17.56,"Phố Vương Thừa Vũ, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,70.0,250.86,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,3.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,45.71,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,19.2,"Phố Khương Trung, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,143.0,134.27,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,
+Ecohome Phúc Lợi,2.3,"Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",Đã bàn giao,42.6,53.99,1.0,1,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+Vinhomes Ocean Park Gia Lâm,2.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Smart City,3.7,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,67.27,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.65,"151A, Đường Nguyễn Đức Cảnh, Phường Tân Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,88.0,52.84,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.15,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,45.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.7,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,45.0,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.25,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.87,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.58,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.0,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,3.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,43.75,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,1.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.8,"Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,75.0,64.0,,2,Đang chờ sổ,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.1,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,44.29,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.5,"Đường Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,91.0,49.45,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.8,Phố Thượng Đình,Đã bàn giao,37.0,21.62,2.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.86,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,15.64,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,0.89,"Xuân Thuỷ, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,50.0,17.8,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,7.6,"Đường Nguyễn Chí Thanh, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",Đã bàn giao,105.0,72.38,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Eco Dream,0.0038,"Nguyễn Xiển, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",Chưa bàn giao,67.0,0.056716,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Thanh Hà Cienco 5 Mường Thanh(KĐT mới Thanh Hà),2.15,"Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Chưa bàn giao,65.0,33.08,2.0,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+,1.55,"Phố Nguyễn Phan Chánh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,48.0,32.29,,2,Hợp đồng mua bán,Chung cư,,
+,7.65,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,132.0,57.95,,4,Sổ hồng riêng,Chung cư,,
+Hateco Laroma,15.2,"Huỳnh Thúc Kháng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,147.0,103.4,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.63,"Kim Liên, Phường Kim Liên, Quận Đống Đa, Hà Nội",Chưa bàn giao,70.0,51.86,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.52,"Nguyễn Ngọc Doãn, Phường Nam Đồng, Quận Đống Đa, Hà Nội",Đã bàn giao,128.0,35.31,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.45,"Phố Gia Quất, Phường Thượng Thanh, Quận Long Biên, Hà Nội",Chưa bàn giao,70.0,49.29,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,5.45,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",Đã bàn giao,65.0,83.85,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Toà nhà hỗn hợp Vườn Đào,7.35,"689, Lạc Long Quân, Phường Phú Thượng, Quận Tây Hồ, Hà Nội",Đã bàn giao,130.0,56.54,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.35,"Phố Chùa Bộc, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,67.0,1.0,2,Sổ hồng riêng,Chung cư,,
+,3.6,"Đường Tân Triều Mới, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",Đã bàn giao,78.0,46.15,2.0,2,Sổ hồng riêng,Chung cư,,
+,1.95,"Phố Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,60.0,32.5,1.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.6,"thịnh quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Đã bàn giao,54.0,29.63,,2,Sổ hồng riêng,Chung cư,,
+,3.05,"Đường Nguyễn Chí Thanh, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,60.0,50.83,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.99,"Đường Nguyễn Trãi, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,80.0,37.38,1.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+,6.6,"Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,100.0,66.0,,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.25,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,58.0,56.03,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,3.57,"Phố Giáp Nhị, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,85.0,42.0,,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+,4.4,"Đường Quang Trung, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",Đã bàn giao,89.98,48.9,2.0,3,Hợp đồng mua bán,Chung cư,,Bàn giao thô
+,5.5,"Ngõ 6 Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,100.0,55.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Khu đô thị Thượng Thanh,2.6,"Đặng Vũ Hỷ, Phường Thượng Thanh, Quận Long Biên, Hà Nội",Đã bàn giao,70.0,37.14,2.0,2,Đang chờ sổ,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.93,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,55.0,53.27,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+The Emerald,6.15,"Phố Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,82.0,75.0,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.87,"linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,75.0,51.6,,2,Sổ hồng riêng,Chung cư,,
+Chung cư Eco Lake View,4.48,"số 32, số 32 Đường Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,70.0,64.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.25,"Phố Kim Ngưu, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,60.0,54.17,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,4.7,"Đường Tả Thanh Oai, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,32.0,146.88,4.0,3,Sổ hồng riêng,Penthouse,,
+,2.999,"đường Đặng Xá 10, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,67.0,44.78,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.5,"Phố Trương Hán Siêu, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,69.0,65.22,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,2.33,"đường Đặng Xá 10, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,58.0,40.17,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,9.25,"275, Nguyễn Trãi, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,166.0,55.72,3.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.17,"Triều Khúc , Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",Đã bàn giao,35.0,33.43,1.0,1,Hợp đồng đặt cọc,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,7.0,"47, Đường Vũ Trọng Phụng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,98.0,71.43,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.85,"Khương Hạ, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,60.0,30.83,1.0,2,Hợp đồng đặt cọc,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,0.65,"Đường Lê Duẩn, Phường Phương Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,42.0,15.48,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.6,"Phố Hồng Mai, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,46.0,13.04,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,3.25,"Nguyễn Quý Đức , Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Đã bàn giao,85.0,38.24,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.65,"Ngõ Văn Chương, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",Đã bàn giao,95.0,38.42,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+Khu đô thị mới Xa La,3.48,"Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Đã bàn giao,95.0,36.63,2.0,3,Sổ hồng riêng,Chung cư,,
+FLC Star Tower,4.25,"Số 418, Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội",Đã bàn giao,80.0,53.12,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.8,"Phố Lương Định Của, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,20.0,140.0,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.95,"Đường Đền Lừ 2, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội",Đã bàn giao,52.0,56.73,1.0,2,Sổ hồng riêng,Chung cư,,
+,6.0,"Phố Dương Đình Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,110.0,54.55,2.0,3,Sổ hồng riêng,Chung cư,,
+,2.66,"Đường Cầu Bươu, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,63.0,42.22,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.35,"khương đình , Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,35.0,38.57,1.0,1,Hợp đồng mua bán,Chung cư,,
+,0.95,"Đường Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.95,"Đường Phạm Văn Đồng, Phường Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Khu đô thị mới Resco,4.8,"Phạm Văn Đồng, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,86.0,55.81,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,0.95,"Phố Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.95,"Nguyễn Trãi, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,7.6,"Đường Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,124.0,61.29,,3,Sổ hồng riêng,Chung cư,,
+,0.95,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.95,"Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",Đã bàn giao,55.0,17.27,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Ruby CT3 (Ruby City Long Biên),2.2,"Phúc Lợi, Phường Giang Biên, Quận Long Biên, Hà Nội",Đã bàn giao,48.8,45.08,2.0,2,Hợp đồng mua bán,Chung cư,,
+,0.85,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,55.0,15.45,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.75,"Phố Phạm Ngọc Thạch, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,55.0,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,5.1,", Tố Hữu, Phường La Khê, Quận Hà Đông, Hà Nội",Đã bàn giao,90.0,56.67,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+A10-A14 Nam Trung Yên,5.55,"Lô A10-A14, Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,62.0,89.52,1.0,2,Sổ hồng riêng,Chung cư,,
+,7.2,"Đại từ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,35.0,205.71,6.0,10,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,1.35,"Phố Vương Thừa Vũ, Phường Khương Mai, Quận Thanh Xuân, Hà Nội",Đã bàn giao,35.0,38.57,1.0,1,Hợp đồng mua bán,Chung cư,,
+,3.495,"Đường Tây Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,48.0,72.81,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.8,"Quốc lộ 32, Xã Đại Thịnh, Huyện Mê Linh, Hà Nội",Đã bàn giao,70.0,25.71,2.0,2,Đang chờ sổ,Chung cư,,
+,2.75,"Phố Lương Định Của, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,55.0,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.73,"Đường Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,48.0,36.04,2.0,2,Hợp đồng mua bán,Chung cư,,
+,4.1,"Phố Thanh Nhàn, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,75.0,54.67,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.0,"Phố Tôn Đức Thắng, Phường Thổ Quan, Quận Đống Đa, Hà Nội",Đã bàn giao,39.0,76.92,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,1.78,"NGÕ 80 HOÀNG ĐẠO THÀNH , Phường Hạ Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,47.0,37.87,1.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,1.28,"Đường Triều Khúc, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",Đã bàn giao,35.0,36.57,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất cao cấp
+,3.1,"Phố Tôn Đức Thắng, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,44.29,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Smart City,2.9,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,45.0,64.44,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.15,"Nguyễn Trãi, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,55.0,39.09,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.2,"Cầu Ánh Sáng, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,30.0,73.33,1.0,1,Sổ hồng riêng,Chung cư,,
+,1.2,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,50.0,24.0,1.0,2,Sổ hồng riêng,Chung cư,,
+,1.39,"Phố Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,52.0,26.73,1.0,2,Sổ hồng riêng,Chung cư,,
+,1.35,"Võ Chí Công, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,45.0,30.0,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.3,"96B, Phố Định Công, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,131.0,48.09,2.0,4,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.3,"Chung cư CT1-181 , Phố Nguyễn Lương Bằng, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,80.8,77.97,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.8,"Đường Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",Chưa bàn giao,77.0,49.35,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.98,"Phố Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",Đã bàn giao,75.0,53.07,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,3.25,"Đường Nguyễn Quý Đức, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Đã bàn giao,85.0,38.24,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,2.4,"Phố Thành Công, Phường Thành Công, Quận Ba Đình, Hà Nội",Đã bàn giao,38.0,63.16,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.97,"Dự án The Sapphire - Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,49.62,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.25,"Phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,58.0,56.03,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+Vinhomes Smart City,3.75,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,58.59,2.0,2,Sổ hồng riêng,Chung cư,,
+New Skyline,6.0,"CC2, Văn Quán, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,136.0,44.12,2.0,3,Sổ hồng riêng,Chung cư,,
+,1.95,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Chưa bàn giao,60.0,32.5,1.0,2,Đang chờ sổ,Chung cư,,Nội thất cao cấp
+,2.5,"Phố Nghĩa Tân, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",Đã bàn giao,45.0,55.56,1.0,1,Hợp đồng mua bán,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.95,"Phố Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,56.0,52.68,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,3.85,"Phố Trần Đăng Ninh, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",Đã bàn giao,63.0,61.11,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,4.25,"Phố Nguyễn Cơ Thạch, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,85.0,50.0,2.0,3,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,1.38,"kiều mai, Phường Phú Diễn, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,48.0,28.75,1.0,2,Sổ hồng riêng,Chung cư,,
+,0.9,"Đường Phạm Hùng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.57,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,42.83,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Phố Giáp Nhất, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Giải Phóng, Phường Giáp Bát, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,58.0,15.52,2.0,2,1,Chung cư,,Nội thất đầy đủ
+,0.9,"Chùa Bộc, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,58.0,15.52,2.0,2,1,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.59,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.29,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.7,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,46.25,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Chung cư CT11 Kim Văn Kim Lũ (Tòa E),1.95,"Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,45.0,43.33,1.0,1,Hợp đồng mua bán,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.0,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,44.12,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.99,", Xã Đa Tốn, Kiêu Kỵ, Dương Xá và một phần thị trấn Trâu Quỳ, Gia Lâm, Hà Nội, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,57.8,51.73,2.0,2,Hợp đồng mua bán,Chung cư,,Bàn giao thô
+Chung cư Đại Thanh,1.24,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,36.0,34.44,1.0,1,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.25,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.87,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,5.59,"Phố Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,80.0,69.88,2.0,2,Sổ hồng riêng,Chung cư,,
+,3.2,"2, Phố Nguyễn Văn Ninh, Phường Việt Hưng, Quận Long Biên, Hà Nội",Đã bàn giao,104.0,30.77,2.0,3,Đang chờ sổ,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.9,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,42.65,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.995,"Phố Huỳnh Thúc Kháng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,18.09,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.35,"Chung cư Kim Văn Kim Lũ, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Đã bàn giao,46.0,51.09,1.0,2,Sổ hồng riêng,Chung cư,,
+,0.6,"Phố Trung Phụng, Phường Trung Phụng, Quận Đống Đa, Hà Nội",Đã bàn giao,50.0,12.0,1.0,2,1,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.65,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,50.0,13.0,1.0,2,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,0.6,"Phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,42.0,14.29,1.0,2,1,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,3.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,74.0,48.65,2.0,2,Sổ hồng riêng,Chung cư,,Bàn giao thô
+,2.1,"Phố Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,38.18,1.0,2,Sổ hồng riêng,Chung cư,,
+,4.85,"Phố Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,65.0,74.62,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.1,"18, Đường Phúc Lợi, Phường Phúc Lợi, Quận Long Biên, Hà Nội",Đã bàn giao,68.0,45.59,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Khu đô thị Việt Hưng,3.85,"Đức Giang, Phường Đức Giang, Quận Long Biên, Hà Nội",Đã bàn giao,97.0,39.69,2.0,3,Sổ hồng riêng,Chung cư,,
+,4.15,"Vũ Trọng Phụng, Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,90.0,46.11,,2,Hợp đồng mua bán,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,2.1,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,44.68,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.9,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,41.43,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.5,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,41.67,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,1.6,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,3.4,"5, Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,42.5,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.15,"Phố Nguyên Hồng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",Đã bàn giao,70.0,59.29,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,1.9,"Ngõ 72 Nguyễn Trãi, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,34.55,2.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,3.75,"Đường Lê Đức Thọ, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",Đã bàn giao,56.0,66.96,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.9,"Phố Nguyễn Văn Lộc, Phường Mộ Lao, Quận Hà Đông, Hà Nội",Chưa bàn giao,92.0,53.26,2.0,2,Sổ hồng riêng,Chung cư,,
+,5.8,"hàng vôi, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội",Đã bàn giao,60.0,96.67,,2,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,4.18,"Phố Nguyễn Hiền, Phường Bách Khoa, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,70.0,59.71,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Khu đô thị Geleximco - Lê Trọng Tấn,5.3,"897, Đường Giải Phóng, Phường Dương Nội, Quận Hà Đông, Hà Nội",Đã bàn giao,123.0,43.09,3.0,3,Đang chờ sổ,Officetel,,Hoàn thiện cơ bản
+,1.8,"Đường Láng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,34.0,52.94,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,
+The Two Residence - Gamuda Garden,5.4,"Đường Pháp Vân, phường Yên Sở, Hoàng Mai, Hà Nội, Phường Yên Sở, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,83.0,65.06,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,2.38,"Phố Lò Đúc, Phường Đống Mác, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,50.0,47.6,,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+,3.1,"25, Đường Vạn Phúc, Phường Vạn Phúc, Quận Hà Đông, Hà Nội",Chưa bàn giao,90.0,34.44,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Hoàn thiện cơ bản
+,12.8,"Phố Quan Hoa, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",Đã bàn giao,55.0,232.73,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,
+,2.38,"Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,45.0,52.89,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.95,"3, Ngõ 13 Khuất Duy Tiến, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,65.0,45.38,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,3.45,"Phố Nguyễn Chánh, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,44.0,78.41,,1,Sổ hồng riêng,Chung cư,,
+,2.485,"Đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,50.0,49.7,1.0,2,Sổ hồng riêng,Chung cư,,
+Vinhomes Smart City,4.25,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,63.0,67.46,2.0,2,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+,2.485,"Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,48.0,51.77,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,2.07,"Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,45.0,46.0,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.0,"119, Đường Trần Duy Hưng, Phường Trung Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,61.0,65.57,,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.3,"Đặng Văn Ngữ, Phường Trung Tự, Quận Đống Đa, Hà Nội",Chưa bàn giao,100.0,43.0,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+FLC Garden City,3.7,"Đại Mỗ, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,66.5,55.64,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,10.2,"Phố Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",Chưa bàn giao,48.0,212.5,,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,2.1,"Thôn Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Hà Nội",Đã bàn giao,69.0,30.43,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,2.52,"Phố Phương Mai, Phường Kim Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,45.82,,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,5.52,Trịnh Đình Cửu,Đã bàn giao,90.0,61.33,3.0,3,1,Chung cư,,
+Khu Đô Thị Vinhomes Times City,8.1,"458, 458 Số 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,75.0,108.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Khu Đô Thị Vinhomes Times City,8.1,"458, 458 Số 458 Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,75.0,108.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,5.55,"Tố Hữu, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,84.0,66.07,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.55,"Phố Nguyễn Phan Chánh, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",Đã bàn giao,48.0,32.29,,2,Hợp đồng mua bán,Chung cư,,
+,5.25,"Tố Hữu, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,74.0,70.95,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,6.75,"Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,98.0,68.88,2.0,3,Đang chờ sổ,Chung cư,,Nội thất cao cấp
+,2.18,"S402 Smart City, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,30.0,72.67,,1,Sổ hồng riêng,Chung cư,,
+,6.75,"Đường Giải Phóng, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội",Đã bàn giao,96.0,70.31,,3,Đang chờ sổ,Chung cư,,Nội thất cao cấp
+,2.76,"Phố Phương Mai, Phường Phương Mai, Quận Đống Đa, Hà Nội",Đã bàn giao,60.0,46.0,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.65,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Chưa bàn giao,59.0,44.92,1.0,2,Sổ hồng riêng,Chung cư,,
+,1.65,"Ngõ Thịnh Quang, Phường Thịnh Quang, Quận Đống Đa, Hà Nội",Đã bàn giao,65.0,25.38,2.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.22,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,47.23,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.63,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,52.58,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Ocean Park Gia Lâm,2.55,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,42.5,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,1.4,"Cầu Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",Đã bàn giao,40.0,35.0,1.0,1,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,
+,1.75,"Phố Hoàng Đạo Thành, Phường Kim Giang, Quận Thanh Xuân, Hà Nội",Đã bàn giao,55.0,31.82,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+,2.98,"đường Đặng Xá 10, Xã Đặng Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,67.0,44.48,2.0,3,Sổ hồng riêng,Chung cư,,
+,3.65,"Ngõ Văn Chương, Phường Văn Chương, Quận Đống Đa, Hà Nội",Đã bàn giao,90.0,40.56,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,2.58,"Phố Bạch Mai, Phường Bạch Mai, Quận Hai Bà Trưng, Hà Nội",Chưa bàn giao,50.0,51.6,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Chung cư B1.3 Thanh Hà (Cienco 5 Mường Thanh),2.17,"Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",Đã bàn giao,70.0,31.0,2.0,3,Hợp đồng mua bán,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+SDU - 143 Trần Phú,3.23,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,63.0,51.27,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Chung cư Đại Thanh,2.52,"Phan Trọng Tuệ, Xã Tả Thanh Oai, Huyện Thanh Trì, Hà Nội",Đã bàn giao,62.0,40.65,1.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,4.8,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,86.0,55.81,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,1.8,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,39.0,46.15,1.0,1,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,13.8,"Phố Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,55.0,250.91,,5,Đang chờ sổ,"Căn hộ dịch vụ, mini",,
+,3.55,"Ngõ Văn Chương, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",Đã bàn giao,80.0,44.38,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Trung tâm thương mại TSQ,9.0,"Mỗ Lao, Phường Mộ Lao, Quận Hà Đông, Hà Nội",Đã bàn giao,176.0,51.14,3.0,4,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Ocean Park Gia Lâm,2.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,4.2,"Phố Giảng Võ, Phường Cát Linh, Quận Đống Đa, Hà Nội",Đã bàn giao,80.0,52.5,2.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+Khu Đô Thị Vinhomes Times City,5.0,"458, Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",Đã bàn giao,75.0,66.67,2.0,2,Sổ hồng riêng,Chung cư,,
+,4.1,"Ngõ 58 Kim Mã, Phường Đội Cấn, Quận Ba Đình, Hà Nội",Đã bàn giao,75.0,54.67,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,
+Vinhomes Smart City,4.1,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,64.06,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+Vinhomes Smart City,2.05,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,28.0,73.21,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,3.95,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,64.0,61.72,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,2.95,"Đường Khuất Duy Tiến, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Hà Nội",Chưa bàn giao,70.0,42.14,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Smart City,3.32,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,55.0,60.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,2.81,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,43.0,65.35,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,1.91,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,30.0,63.67,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,4.24,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,70.0,60.57,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Vinhomes Smart City,4.24,"Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,70.0,60.57,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,3.4," ngõ 272 đường hữu hưng, Phường Đại Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,65.0,52.31,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư 130 Nguyễn Đức Cảnh,5.0,"130, Nguyễn Đức Cảnh, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,92.0,54.35,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.4,"Đường Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,89.0,49.44,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,13.9,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,60.0,231.67,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.65,"Đường Lý Thánh Tông, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,44.17,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.95,"Phố Mai Động, Phường Mai Động, Quận Hoàng Mai, Hà Nội",Chưa bàn giao,120.0,32.92,2.0,5,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất cao cấp
+Tòa nhà Intracom1 - Trung Văn,5.32,"Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,110.0,48.36,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.3,"Vinhomes Ocean Park , Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,70.0,61.43,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+A10-A14 Nam Trung Yên,3.45,"Lô A10-A14, Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,50.0,69.0,1.0,2,Sổ hồng riêng,Chung cư,,
+,6.9,"Phố Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,100.0,69.0,2.0,3,Sổ hồng riêng,Chung cư,,
+Chung cư 187 Tây Sơn,5.0,"187, Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",Đã bàn giao,67.0,74.63,,2,Sổ hồng riêng,Chung cư,,
+,0.9,"Đường Trương Định, Phường Tương Mai, Quận Hoàng Mai, Hà Nội",Đã bàn giao,55.0,16.36,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+SDU - 143 Trần Phú,3.3,"Trần Phú, Phường Văn Quán, Quận Hà Đông, Hà Nội",Đã bàn giao,68.0,48.53,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Đường Lạc Long Quân, Phường Bưởi, Quận Tây Hồ, Hà Nội",Đã bàn giao,55.0,16.36,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Smart City,3.35,", Đại Mỗ, Phường Tây Mỗ, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,54.0,62.04,,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,0.9,"Phố Xã Đàn, Phường Phương Liên, Quận Đống Đa, Hà Nội",Đã bàn giao,55.0,16.36,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.8,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,52.0,53.85,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.2,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,46.81,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.5,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,51.0,49.02,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.5,Phố Nghĩa Tân,Đã bàn giao,55.0,63.64,1.0,1,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.9,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,42.65,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,3.0,"Đường Đại Tây Dương, Xã Dương Xá, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,44.12,2.0,2,Sổ hồng riêng,Chung cư,,Hoàn thiện cơ bản
+,3.1,"Phố Nghĩa Tân, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",Đã bàn giao,58.0,53.45,1.0,2,Sổ hồng riêng,"Tập thể, cư xá",,
+,6.5,"Phố Nguyễn Cơ Thạch, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,128.0,50.78,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,1.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,31.0,51.61,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,4.5,"Phố Thành Thái, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",Đã bàn giao,68.0,66.18,1.0,2,Sổ hồng riêng,Chung cư,,
+VOV Mễ Trì,5.2,"Chung cư VOV Mễ trì, Lương Thế Vinh, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",Đã bàn giao,81.5,63.8,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,3.06,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,68.0,45.0,2.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+A10-A14 Nam Trung Yên,7.5,"Lô A10-A14, Yên Hòa, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,100.0,75.0,2.0,3,Sổ hồng riêng,Chung cư,,
+Vinhomes Ocean Park Gia Lâm,3.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,80.0,45.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.26,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,47.0,48.09,1.0,1,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+Vinhomes Ocean Park Gia Lâm,2.6,"Yên Viên, Thị trấn Trâu Quỳ, Huyện Gia Lâm, Hà Nội",Đã bàn giao,60.0,43.33,1.0,2,Sổ hồng riêng,Chung cư,,Nội thất đầy đủ
+,6.5,"Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",Đã bàn giao,100.0,65.0,2.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+,1.85,"Nguyễn Trãi , Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,50.0,37.0,1.0,2,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ
+,2.65,"Khương Trung , Phường Khương Trung, Quận Thanh Xuân, Hà Nội",Đã bàn giao,70.0,37.86,2.0,3,Sổ hồng riêng,"Tập thể, cư xá",,Nội thất đầy đủ
+,14.9,"Đường Phạm Văn Đồng, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",Đã bàn giao,56.0,266.07,6.0,10,Sổ hồng riêng,"Căn hộ dịch vụ, mini",,Nội thất cao cấp
+Hateco Laroma,15.2,"Huỳnh Thúc Kháng, Phường Láng Thượng, Quận Đống Đa, Hà Nội",Đã bàn giao,147.0,103.4,3.0,3,Sổ hồng riêng,Chung cư,,Nội thất cao cấp
+Chung cư Yên Hoà Thăng Long,4.95,"Tổ 50 đường Mạc Thái Tổ, Phường Yên Hòa, Cầu Giấy, Hà Nội, Phường Yên Hoà, Quận Cầu Giấy, Hà Nội",Đã bàn giao,99.2,49.9,2.0,2,Hợp đồng mua bán,Chung cư,,Nội thất đầy đủ
+,1.65,"Hoàng Ngân, Phường Nhân Chính, Quận Thanh Xuân, Hà Nội",Đã bàn giao,44.0,37.5,1.0,1,Hợp đồng mua bán,"Căn hộ dịch vụ, mini",,Nội thất đầy đủ

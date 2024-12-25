@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ứng Dụng Dự Đoán Giá Bất Động Sản</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h1 class="text-center">Dự Đoán Giá Bất Động Sản</h1>
+
+    <form method="POST" action="/">
+
+        <div class="mb-3">
+            <label for="category" class="form-label">Danh mục</label>
+            <select id="category" name="category" class="form-control" required>
+                {% for category in category_values %}
+                    <option value="{{ category }}">{{ category }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="type" class="form-label">Loại hình</label>
+            <select id="type" name="type" class="form-control" required>
+                <!-- Các loại hình sẽ được cập nhật tự động khi chọn category -->
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="district" class="form-label">Quận</label>
+            <select id="district" name="district" class="form-control" required>
+                {% for district in district_values %}
+                    <option value="{{ district }}">{{ district }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="furnishing" class="form-label">Trang bị nội thất</label>
+            <select id="furnishing" name="furnishing" class="form-control" required>
+                {% for furnishing in furnishing_values %}
+                    <option value="{{ furnishing }}">{{ furnishing }}</option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label for="floor" class="form-label">Số tầng</label>
+            <input type="number" class="form-control" name="floor" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="room" class="form-label">Số phòng</label>
+            <input type="number" class="form-control" name="room" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="area" class="form-label">Diện tích (m²)</label>
+            <input type="number" class="form-control" name="area" required>
+        </div>
+
+        <div class="mb-3">
+            <label for="toilet" class="form-label">Số WC</label>
+            <input type="number" class="form-control" name="toilet" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Dự Đoán</button>
+    </form>
+
+    {% if gbt_price %}
+    <h2 class="mt-5 text-center">Kết Quả Dự Đoán</h2>
+    <table class="table mt-3">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Giá Dự Đoán</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Mô hình Gradient Boosted Trees nổi bật hơn -->
+            <tr class="table-primary">
+                <td><strong>Gradient Boosted Trees</strong></td>
+                <td><strong>{{ gbt_price|round(2) }} tỷ VND</strong></td>
+            </tr>
+            <!-- Các mô hình khác với kích thước chữ nhỏ hơn -->
+            <tr class="table-secondary">
+                <td>Random Forest</td>
+                <td style="font-size: 0.85em;">{{ rf_price|round(2) }} tỷ VND</td>
+            </tr>
+            <tr class="table-secondary">
+                <td>Decision Tree</td>
+                <td style="font-size: 0.85em;">{{ dt_price|round(2) }} tỷ VND</td>
+            </tr>
+            <tr class="table-secondary">
+                <td>Generalized Linear Model</td>
+                <td style="font-size: 0.85em;">{{ glm_price|round(2) }} tỷ VND</td>
+            </tr>
+            <tr class="table-secondary">
+                <td>XGBoost</td>
+                <td style="font-size: 0.85em;">{{ xgb_price|round(2) }} tỷ VND</td>
+            </tr>
+        </tbody>
+    </table>
+    {% endif %}
+</div>
+
+<script>
+    // Định nghĩa ánh xạ để đổi tên danh mục
+    const categoryMap = {
+        "NhaDat": "Nhà đất",
+        "ChungCu": "Chung cư",
+        "DatNen": "Đất nền"
+    };
+
+    // Cập nhật các option trong dropdown 'category' khi trang tải
+    $(document).ready(function() {
+        $('#category option').each(function() {
+            var originalValue = $(this).val();
+            var displayName = categoryMap[originalValue] || originalValue;  // Nếu không có trong ánh xạ thì giữ nguyên
+            $(this).text(displayName);  // Cập nhật tên hiển thị
+        });
+    });
+
+    // Cập nhật type options khi category được chọn
+    $('#category').change(function() {
+        var category = $(this).val();
+        $.get('/update_type', {category: category}, function(data) {
+            $('#type').empty();
+            $.each(data, function(index, value) {
+                $('#type').append('<option value="'+value+'">'+value+'</option>');
+            });
+        });
+    });
+</script>
+
+</body>
+</html>
